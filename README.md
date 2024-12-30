@@ -36,6 +36,7 @@
 2. **Langkah-langkah**:
    - Clone repositori ini ke komputer Anda.
      ```bash
+     https://github.com/Kaffah21/Daily-notes.git
      ```
    - Buka proyek di Android Studio.
    - Sinkronkan proyek dengan Gradle.
