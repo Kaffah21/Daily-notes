@@ -44,11 +44,3 @@
 2. **Tambah Catatan**: Klik tombol "+" untuk menambahkan catatan baru.
 3. **Akses Bantuan**: Navigasikan ke menu bantuan untuk menghubungi melalui WhatsApp atau membaca panduan.
 4. **FAQ**: Periksa bagian FAQ untuk jawaban atas pertanyaan umum.
-
----
-
-
-## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file `LICENSE` untuk detail lebih lanjut.
-
-
