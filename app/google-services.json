@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "202208908695",
+    "firebase_url": "https://aplikasi-penjualan-560a5-default-rtdb.firebaseio.com",
+    "project_id": "aplikasi-penjualan-560a5",
+    "storage_bucket": "aplikasi-penjualan-560a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202208908695:android:0d748ab8265c00e06c20d2",
+        "android_client_info": {
+          "package_name": "com.example.aplikasipenjualan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIsnVWepHSxuKSgwlQZGvpQMV9HC6H_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202208908695:android:430cc7a4df0f7b2f6c20d2",
+        "android_client_info": {
+          "package_name": "com.example.wherehouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIsnVWepHSxuKSgwlQZGvpQMV9HC6H_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
