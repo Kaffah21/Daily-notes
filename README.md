@@ -24,16 +24,11 @@
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman**: Kotlin
 - **IDE**: Android Studio
-- **Database**: SQLite untuk menyimpan dan mengelola catatan pengguna
+- **Database**: Firebase Console
 
 ---
 
 ## Panduan Instalasi
-1. **Persyaratan**:
-   - Android Studio terinstal pada komputer Anda.
-   - Emulator atau perangkat Android untuk pengujian aplikasi.
-
-2. **Langkah-langkah**:
    - Clone repositori ini ke komputer Anda.
      ```bash
      https://github.com/Kaffah21/Daily-notes.git
@@ -52,29 +47,8 @@
 
 ---
 
-## Struktur Proyek
-- **MainActivity.kt**: Aktivitas utama aplikasi.
-- **NoteAdapter.kt**: Adapter untuk menampilkan daftar catatan.
-- **DatabaseHelper.kt**: Mengelola database SQLite.
-- **res/**: Folder sumber daya seperti layout, string, dan ikon.
-
----
-
-## Kontribusi
-Kontribusi selalu diterima! Jika Anda ingin berkontribusi pada proyek ini, lakukan hal berikut:
-1. Fork repositori ini.
-2. Buat branch baru untuk fitur atau perbaikan Anda.
-3. Lakukan pull request ke branch `main`.
-
----
 
 ## Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file `LICENSE` untuk detail lebih lanjut.
 
----
-
-## Kontak
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi:
-- Email: support@dailynotes.com
-- WhatsApp: +62-812-3456-7890
 
